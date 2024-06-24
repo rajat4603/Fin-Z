@@ -1,19 +1,19 @@
-![BANNER_1600](https://github.com/nightcoder26/Fin-Z/assets/77844703/06c9a05b-77fa-4d1c-ad12-223042f98069)
+![BANNER_1600](https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/06c9a05b-77fa-4d1c-ad12-223042f98069)
 
-<h1 align="center"> <img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/1f86a237-0b42-4eca-9311-18f5aedfc45a" width="35" />Fin-Z 
+<h1 align="center"> <img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/1f86a237-0b42-4eca-9311-18f5aedfc45a" width="35" />Gupta's Expense Tracker 
 </h1>
 <p align="center">A flexible and free-to-use finance tracker made with React, Nodejs, Express.js <br/> and mongoDB, helping you manage your finances smoothly</p>
 
-<h2>What is Fin-Z 🤔💭</h2>
+<h2>What is Gupta's Expense Tracker 🤔💭</h2>
 <p>Our finance tracker web app is designed to provide a user-friendly platform for managing personal finances efficiently. It offers multiple pages, including an overview dashboard, category-wise analysis, and period-wise transaction logs (daily, weekly, monthly). Users can easily add new entries, create accounts, and manage their financial data securely through MongoDB Atlas, ensuring cloud-based data storage and accessibility.
 
 </p>
-<img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/34d9a677-e1bf-499a-9759-8b7dc9aba037">
+<img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/34d9a677-e1bf-499a-9759-8b7dc9aba037">
 
 
 
 
-https://github.com/nightcoder26/Fin-Z/assets/77844703/0759258e-5e06-43fe-9294-41a14caf5070
+https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/0759258e-5e06-43fe-9294-41a14caf5070
 
 
 
@@ -42,7 +42,7 @@ Ensure you have Node.js and npm installed on your machine. You can download it f
 1. **Clone the Git Repository:**
 
    ```bash
-   git clone https://github.com/nightcoder26/Fin-Z.git
+   git clone https://github.com/nightcoder26/Gupta's Expense Tracker.git
    ```
 
    Clone the repository containing the finance tracker project.
@@ -50,7 +50,7 @@ Ensure you have Node.js and npm installed on your machine. You can download it f
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd Fin-Z
+   cd Gupta's Expense Tracker
    ```
 
 3. **Install Dependencies:**
@@ -114,22 +114,22 @@ Ensure both the frontend and backend servers are running simultaneously for the 
 <h3>Other dependencies</h3>
 
 <a href="https://react-icons.github.io/react-icons/">
-  <img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/10e5bb18-aa40-4cef-9c4b-6cd3c547b552" width="50px"/>
+  <img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/10e5bb18-aa40-4cef-9c4b-6cd3c547b552" width="50px"/>
 </a>
 <a href="https://vitejs.dev/">
   <img src="https://vitejs.dev/logo-with-shadow.png" width="50px"/>
 </a>
 <a href="https://nodemon.io/">
-  <img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/a1c84575-8ab6-4f90-a4a3-75ac4697e8b3" width="50px"/>
+  <img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/a1c84575-8ab6-4f90-a4a3-75ac4697e8b3" width="50px"/>
 </a>
 <a href="https://recharts.org/en-US/">
-  <img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/06740ea1-01fa-49d3-b8a1-4ad838dffc4d" width="50px"/>
+  <img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/06740ea1-01fa-49d3-b8a1-4ad838dffc4d" width="50px"/>
 </a>
 <a href="https://momentjs.com/timezone/docs/">
-  <img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/0a0649d8-bf9b-4868-9af5-29c2b4637363" width="50px"/>
+  <img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/0a0649d8-bf9b-4868-9af5-29c2b4637363" width="50px"/>
 </a>
 <a href="https://mongoosejs.com/">
-  <img src="https://github.com/nightcoder26/Fin-Z/assets/77844703/4feb5714-5bbe-4a1a-b8b7-ca3537aa709b" width="50px"/>
+  <img src="https://github.com/nightcoder26/Gupta's Expense Tracker/assets/77844703/4feb5714-5bbe-4a1a-b8b7-ca3537aa709b" width="50px"/>
 </a>
 
 ## Project Background
@@ -165,8 +165,8 @@ For updates, events, and highlights from the Milestone Club, follow us on [Insta
 </p>
 <h2> Our Contributors 💗</h2>
 
-<a href="https://github.com/nightcoder26/Fin-Z/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nightcoder26/Fin-Z&max=400&columns=20" />
+<a href="https://github.com/nightcoder26/Gupta's Expense Tracker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nightcoder26/Gupta's Expense Tracker&max=400&columns=20" />
 </a>
 
 ## Contribution Guidelines
